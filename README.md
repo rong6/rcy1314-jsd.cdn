@@ -1,3 +1,9 @@
+> [!NOTE]
+> Archiving of [https://github.com/[AnonymousUser]/jsd.cdn](https://github.com/rcy1314/jsd.cdn)  
+> The event has ended, just archive.   
+> See [My Blog](https://rong6.cn/archives/plagiarism-a-code-war).
+
+
 ## 说明
 
 代码遵循MIT协议，请修改后自部署到云服务器使用，支持vercel一键部署
